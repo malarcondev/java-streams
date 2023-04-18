@@ -30,7 +30,6 @@ public class TransformationsMapAndReduce {
                 .collect(Collectors.toList());
 
         dtos.forEach(System.out::println);
-
     }
 
     @Test
